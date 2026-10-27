@@ -1,2 +1,0 @@
-# ExamRegistration
-java
